@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 4px;
+  border-color: black;
+}
+.cell {
+  color: white;
+  font-size: 3rem;
+}
+.h1 {
+  font-size: 30px;
+  padding: 20px;
+}
+button {
+  margin-top: 50px;
+  background-color: blanchedalmond;
+  padding: 15px 40px;
+  border: none;
+  font-size: 20px;
+}
